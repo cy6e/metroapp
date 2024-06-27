@@ -11,23 +11,23 @@ MetroApp is an Android application designed to help users plan their metro trave
 
 ## Screenshots
 <p align="center">
-  <img src="https://github.com/nagaditya39/MetroApp/blob/master/images/home_page-1.jpg" width="200">
+  <img src="https://github.com/cy6e/metroapp/blob/master/images/home_page-1.jpg" width="200">
 </p>
 <p align="center">
-  <img src="https://github.com/nagaditya39/MetroApp/blob/master/images/search-results.jpg" width="200">
+  <img src="https://github.com/cy6e/metroapp/blob/master/images/search-results.jpg" width="200">
 </p>
 <p align="center">
-  <img src="https://github.com/nagaditya39/MetroApp/blob/master/images/ticket-confirm.jpg" width="200">
+  <img src="https://github.com/cy6e/metroapp/blob/master/images/ticket-confirm.jpg" width="200">
 </p>
 <p align="center">
-  <img src="https://github.com/nagaditya39/MetroApp/blob/master/images/History.jpg" width="200">
+  <img src="https://github.com/cy6e/metroapp/blob/master/images/History.jpg" width="200">
 </p>
 
 ## Installation
 
 To run the MetroApp on your Android device or emulator:
 
-1. Clone this repository: `git clone https://github.com/nagaditya39/metroapp.git`
+1. Clone this repository: `git clone https://github.com/cy6e/metroapp.git`
 2. Open the project in Android Studio.
 3. Build and run the project on your device or emulator.
 
@@ -43,5 +43,4 @@ To run the MetroApp on your Android device or emulator:
 - View ticket history: Navigate to the ticket history page to view your past bookings.
 
 ## Contributors
-- Aditya Nag [Github](https://github.com/nagaditya39)
 - Adarsh Kumar [Github](https://github.com/cy6e)
